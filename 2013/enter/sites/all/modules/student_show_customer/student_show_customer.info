@@ -1,0 +1,6 @@
+name = Student Show Customer Profile
+description = Adds customer profile for students.
+package = Commerce (contrib)
+dependencies[] = commerce_customer
+dependencies[] = commerce_customer_ui
+core = 7.x

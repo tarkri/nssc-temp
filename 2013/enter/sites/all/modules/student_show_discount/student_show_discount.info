@@ -1,0 +1,5 @@
+name = Student Show Discount
+description = Enables discounts for the student show.
+dependencies[] = commerce
+package = Commerce (contrib)
+core = 7.x

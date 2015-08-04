@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+		<title>National Student Show & Conference 10</title>
+		<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, maximum-scale=1">
+	
+	<meta property="og:title" content="National Student Show & Conference 10" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://nationalstudentshow.com/library/images/facebook.png" />
+	<meta property="og:url" content="http://nationalstudentshow.com/" />
+	<meta property="og:description" content="Inspiration from across the nation. Energize your creative spirit with three days packed full of renowned keynote speakers, studio tours, panel discussions, and more breakout sessions and workshops than ever before." />
+	<meta property="og:site_name" content="National Student Show & Conference 10" />
+	
+	<link rel="stylesheet" href="/library/css/screen.css" />
+	</head>
+	<body>
+		
+		<nav id="main" class="row">
+			<div class="inner-row">
+				<a href="/" class="logo"><p><span class="red">National</span> <span class="purple">Student Show</span> <br /><span class="magenta">&amp; Conference</span> <span class="cyan">10</span></p></a>
+				<ul class="main-nav">
+					<div class="mobile-wrapper subpage">
+						<li class="register"><a href="/" class="purple">return to homepage</a></li>
+						<li><p>Follow Us</p></li>
+						<li class="social facebook"><a href="https://www.facebook.com/nationalstudentshow" target="_blank"><img src="/library/images/ico-facebook.png" alt="" /></a></li>
+						<li class="social twitter"><a href="https://twitter.com/dsvcstudentshow" target="_blank"><img src="/library/images/ico-twitter.png" alt="" /></a></li>	
+					</div>
+				</ul>
+				<div class="clear"></div>
+			</div>	
+		</nav>
+		
+		<header id="main" class="row subpage">
+        	<div class="banner"></div>
+		</header>
+		
+		<section id="main" class="row">
+			<div class="inner-row">
+					<h1 class="headline magenta">Stay Updated</h1>
+					<p class="conference-blurb">Please fill out the form to stay informed on upcoming conference info and announcements.</p>
+					<div class="clear"></div>
+					<hr />
+			</div>
+			<div class="clear"></div>
+			<div class="inner-row">	
+				
+				<form action="http://dsvc.us2.list-manage.com/subscribe/post?u=cc0d01979241f51a7de81eed7&amp;id=dc3e1612cb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate stay-updated" target="_blank" novalidate>
+					
+					<p>
+						<label for="">First Name</label><br />
+						<input type="text" name="FNAME" class="required" id="mce-FNAME" />
+					</p>
+					
+					<p>
+						<label for="">Last Name</label><br />
+						<input type="text" name="LNAME" class="required" id="mce-LNAME" />
+					</p>
+					
+					<p>
+						<label for="">Email</label><br />
+						<input type="text" name="EMAIL" class="required email" id="mce-EMAIL" />
+					</p>
+					
+					<p>
+						<label for="">School Name</label><br />
+						<input type="text" name="MMERGE3" class="" id="mce-MMERGE3" />
+					</p>
+					
+					<p>
+						<label for="">Established Graduation Date</label>
+						<div class="datefield">
+						        <span class="subfield monthfield"><input type="text" pattern="[0-9]*" value="MM" size="2" maxlength="2" name="MMERGE4[month]" id="mce-MMERGE4-month"></span> 
+						        <span class="subfield dayfield"><input type="text" pattern="[0-9]*" value="DD" size="2" maxlength="2" name="MMERGE4[day]" id="mce-MMERGE4-day"></span>
+						        <span class="subfield yearfield"><input type="text" pattern="[0-9]*" value="YYYY" size="4" maxlength="4" name="MMERGE4[year]" id="mce-MMERGE4-year"></span>
+						        <div class="fake-date"><input type="hidden" class=" date" id="MMERGE4-fake-date" value=""></div>
+						    </div>
+					</p>
+					
+					<div class="">
+						<span>I'm a...</span><br />
+						<p class="radio">
+							<label>Student <input value="Student" name="MMERGE5" id="mce-MMERGE5-0" type="radio" /></label>
+						</p>
+						<p class="radio">
+							<label>Professor <input value="Professor" name="MMERGE5" id="mce-MMERGE5-1" type="radio" /></label>
+						</p>
+						<p class="radio">
+							<label>Other <input value="Other" name="MMERGE5" id="mce-MMERGE5-2" type="radio" /></label>
+						</p>
+					</div>
+					<div id="mce-responses" class="clear">
+						        <div class="response" id="mce-error-response" style="display:none"></div>
+						        <div class="response" id="mce-success-response" style="display:none"></div>
+						    </div> 
+					<input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button btn magenta on-white" />
+				</form>
+				<div class="clear"></div>
+				<br /><br />
+			</div>
+			
+		</section>
+		
+		<footer id="main" class="row">
+			<div class="footer-content">
+				<div class="inner-row">
+					<div class="columns column-1">
+						<h1 class="magenta">More</h1>
+						<ul>
+							<li><a href="/stay-updated">Sign up for Updates</a></li>
+							<li><a href="/rules">Official Rules</a></li>
+							<li><a href="/support">Support</a></li>
+							<!-- <li><a href="/nominate">Nominate Golden Apple</a></li> -->
+							<li><a href="/contact">Contact</a></li>
+						</ul>
+					</div>
+					<div class="columns column-2">
+						<h1 class="magenta"><a href="https://twitter.com/search?q=%23NSSC10&src=hash" target="_blank">#NSSC10 on Twitter</a></h1>
+						<div class="twitter-feed">
+							<div class="clear"></div>
+							<div id="feed" class="feed">
+								
+		
+							</div>
+							<div class="clear"></div>
+						</div>
+						<!-- /.twitter-feed -->
+					</div>
+					<div class="columns column-3">
+						<h1 class="magenta">
+							The only National Student Show <nobr>& Conference</nobr> for creative students. Over $15K in scholarships to give away to the best work out there!
+						</h1>
+						<img src="/library/images/ico-att.png" alt="" />
+					</div>
+					<div class="clear"></div>
+					
+				</div>
+				<div class="fineprint">
+					<div class="inner-row">
+					<p>
+						<span class="left">Copyright &copy; 2014 National Student Show & Conference. <nobr>All rights reserved.</nobr></span>
+						<span class="right"><a href="/legal">Legal & Privacy Policy <em>|</em></a> <a href="http://colossal.net" target="_blank" class="colossal"></a></span>
+					</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		
+		
+		
+	<!-- Scripts Start Here-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/library/js/jquery.min.js">\x3C/script>')</script>
+	<script type="text/javascript" src="/library/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+	<script type="text/javascript" src="/library/js/jquery-scrolltofixed-min.js"></script>
+	<script type="text/javascript" src="/library/js/customize-twitter-1.1.js"></script>
+		<script type="text/javascript" src="/library/js/twitterFetcher_v9_min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var winHeight = $(window).height();
+			
+			//Scales banner to full size of window on load	
+			if(winHeight > 767) {
+				$('nav#main').scrollToFixed();
+			}
+		});
+	</script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-45345611-1', 'nationalstudentshow.com');
+	  ga('send', 'pageview');
+	
+	</script>
+	</body>
+</html>

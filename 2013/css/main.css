@@ -1,0 +1,198 @@
+/* FC9521 */
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	color: #808080;
+	font-family: "franklin-gothic-urw",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+a:link,
+a:visited {
+	color: #FC9521;
+}
+
+header {
+	margin: 0 0 25px 0;
+}
+
+#logo {
+	float: left;
+	width: 30%;
+}
+
+#date {
+	float: right;
+	width: 15%;
+}
+
+.hero-unit {
+	margin: 0 -20px 25px -20px;
+	padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "tekton-pro-condensed",sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+h2 {
+	font-size: 38px;
+}
+
+h3 {
+	font-size: 28px;
+	border-top: 1px solid #e5e5e5;
+	padding-top: 30px;
+	margin: 40px 15px 20px 0;
+}
+
+.span4 p {
+	margin-right: 30px;
+}
+
+#make-your-mark {
+	width: 84%;
+  height: 50px;
+  background: url("../img/make-your-mark.jpg");
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  background-size: 100% auto;
+}
+
+.hotel {
+	font-size: 17px;
+}
+
+.note {
+	font-size: 12px;
+	line-height: 15px;
+}
+
+.button:link,
+.button:visited {
+	font-size: 12px;
+	display: inline-block;
+	border: 3px solid #FC9521;
+	color: #FC9521;
+	background-color: white;
+	text-transform: uppercase;
+	padding: 3px 6px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.button:focus,
+.button:hover,
+.button:active {
+	color: white;
+	background-color: #FC9521;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+li .button {
+	margin-bottom: 10px;
+}
+
+.modal #mc_embed_signup .mc-field-group .asterisk {
+	top: 35px;
+}
+
+.modal .modal-header h2 {
+	margin: 0;
+}
+
+.show .intro p {
+	margin-right: 76px;
+}
+
+.show h2 {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FC9521;
+	line-height: 1.2;
+	margin: 30px 0 2px 0;
+}
+
+.accepted table {
+	border-collapse: separate;
+	border-spacing: 10px;
+	margin-left: -9px;
+}
+
+.accepted td {
+	padding: 0 15px;
+	border-right: 1px solid #808080;
+}
+
+.accepted td:first-child {
+	padding-left: 0;
+}
+
+.accepted td:last-child {
+	border: none;
+}
+
+@media (min-width: 445px) and (max-width: 768px) {
+	#make-your-mark {
+		height: 100px;
+	}
+}
+
+@media (max-width: 768px) {
+	#the-show,
+	#the-conference {
+		border-top: 1px solid #e5e5e5;
+		padding-top: 30px;
+		margin-top: 40px;
+	}
+}
+
+@media (max-width: 979px) {
+	body {
+		padding-top: 10px;
+	}
+
+	.hero-unit {
+		margin: 0 -10px 25px -10px;
+		padding: 0;
+	}
+}
+
+@media (max-width: 480px) {
+	#logo {
+		float: none;
+		width: 100%;
+	}
+
+	#date {
+		float: right;
+		width: 45%;
+		margin-top: 15px;
+	}
+}
+
+

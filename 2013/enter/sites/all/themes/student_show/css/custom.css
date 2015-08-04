@@ -1,0 +1,111 @@
+body {
+	color: #808080;
+	font-family: "franklin-gothic-urw",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "tekton-pro-condensed",sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.zone-branding .grid-24 {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.branding-data {
+	float: left;
+	width: 30%;
+}
+
+.branding-data img {
+	width: 100%;
+}
+
+#date {
+	float: right;
+	width: 14.5%;
+	margin: 10px 0;
+}
+
+.button:link,
+.button:visited {
+	font-size: 12px;
+	display: inline-block;
+	border: 3px solid #FC9521;
+	color: #FC9521;
+	background-color: white;
+	text-transform: uppercase;
+	padding: 3px 6px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.button:focus,
+.button:hover,
+.button:active {
+	color: white;
+	background-color: #FC9521;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.node-scholarship header,
+.node-show-entry header {
+	float: left;
+	margin-right: 20px;
+}
+
+.node-scholarship.node-teaser,
+.node-show-entry.node-teaser {
+	margin-bottom: 50px;
+}
+
+.node-show-entry .field-name-commerce-price,
+.node-scholarship .field-name-commerce-price {
+	font-size: 28px;
+	font-family: "tekton-pro-condensed",sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.region-sidebar-second h4 a {
+	font-size: 14px;
+	text-transform: none;
+}
+
+.region-sidebar-second .block ol,
+.region-sidebar-second .block ul {
+	margin-left: 20px;
+}
+
+@media (max-width: 480px) {
+	.branding-data {
+		float: none;
+		width: 100%;
+	}
+
+	.branding-data img {
+		width: 100%;
+	}
+
+	#date {
+		float: right;
+		width: 45%;
+		margin: 10px 0;
+	}
+}

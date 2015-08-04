@@ -1,0 +1,33 @@
+
+
+
+
+
+
+Options -Indexes
+
+DirectoryIndex index.html index.php index.htm
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/$ $1.html
+RewriteRule ^([^/]+)/([^/]+)/$ /$1/$2.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/)$
+RewriteRule (.*)$ /$1/ [R=301,L]
+
+# Redirects to Homepage
+Redirect /refer/ http://nationalstudentshow.com/
+Redirect /conference/ http://nationalstudentshow.com/#conference
+Redirect /show/ http://nationalstudentshow.com/#show
+Redirect /awards/ http://nationalstudentshow.com/#show
+
+</IfModule>
